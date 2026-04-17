@@ -2,8 +2,8 @@
 
 ## Vóór aankoop
 
-- Geldig kenteken, VIN klopt met kentekencard
-- Verkoper heeft kentekencard + tenaamstellingscode
+- Geldig kenteken, VIN klopt met de kentekencard (het pasje)
+- Verkoper heeft kentekencard (pasje) + tenaamstellingscode
 - Niet geregistreerd als schadeauto (blokkeert BPM-teruggaaf)
 - Check [finnik.nl](https://finnik.nl) met het kenteken: toont exact betaalde BPM, registratiedatum, CO₂
 
@@ -11,7 +11,7 @@
 
 ## Witte platen (exportkentekenplaten)
 
-Afmelden voor export bij een RDW-keuringsstation. Neem auto, paspoort en kentekencard mee. Vraag exportmelding aan — RDW schrijft de auto uit en geeft witte platen af (geldig ~14 dagen). Regel tijdelijke WA-verzekering (groene kaart).
+Afmelden voor export bij een RDW-keuringsstation. Neem auto, paspoort en kentekencard (pasje) mee. Vraag exportmelding aan — RDW schrijft de auto uit en geeft witte platen (kentekenplaten) af, geldig ~14 dagen. Regel tijdelijke WA-verzekering (groene kaart).
 
 **Kosten:** RDW ~€40–€100, verzekering varieert.
 
@@ -42,7 +42,7 @@ Diesel Land Cruisers: 250–274 g/km WLTP, originele BPM vaak €30.000–€50.
 
 | Stap | Actie |
 |------|-------|
-| 1 | Koop — kentekencard, contract/factuur, CoC |
+| 1 | Koop — kentekencard (pasje), contract/factuur, CoC |
 | 2 | Check BPM op Finnik |
 | 3 | RDW — exportmelding + witte platen + verzekering |
 | 4 | Rij naar Spanje (platen geldig ~14 dagen) |
