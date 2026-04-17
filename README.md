@@ -1,6 +1,6 @@
 # Land Cruiser importeren naar Spanje
 
-Praktische gids voor het kopen van een Toyota Land Cruiser in Nederland of België en het importeren/inschrijven in Spanje.
+Gids voor het kopen van een Toyota Land Cruiser in Nederland of België en importeren in Spanje.
 
 ## Documenten
 
@@ -10,7 +10,7 @@ Praktische gids voor het kopen van een Toyota Land Cruiser in Nederland of Belgi
 | 2 | Kopen in België | [02-belgium-buying-guide.md](02-belgium-buying-guide.md) |
 | 3 | Invoer & inschrijving in Spanje | [03-spain-import-guide.md](03-spain-import-guide.md) |
 
-## Handige tools
+## Tools
 
 - [Finnik.nl](https://finnik.nl) — BPM opzoeken per kenteken (NL)
 - [VWE BPM-exportcalculator](https://www.vwe.nl/autobedrijven/bpm-calculator-export) — rest-BPM berekenen bij export (NL)
@@ -20,4 +20,4 @@ Praktische gids voor het kopen van een Toyota Land Cruiser in Nederland of Belgi
 
 ## Disclaimer
 
-Deze gids is informatief en geen fiscaal/juridisch advies. Regels en tarieven kunnen wijzigen. Controleer altijd de actuele regelgeving bij de Belastingdienst, RDW, DIV, DGT en Agencia Tributaria.
+Geen fiscaal/juridisch advies. Regels en tarieven wijzigen. Check altijd de Belastingdienst, RDW, DIV, DGT en Agencia Tributaria.

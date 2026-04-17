@@ -11,17 +11,17 @@
 
 ## Witte platen (exportkentekenplaten)
 
-Afmelden voor export bij een RDW-keuringsstation. Neem de auto, je paspoort en kentekencard mee. Vraag een exportmelding aan. De RDW schrijft de auto uit en geeft witte platen af (geldig ~14 dagen). Regel tijdelijke WA-verzekering (groene kaart) via een verzekeraar of tussenpersoon.
+Afmelden voor export bij een RDW-keuringsstation. Neem auto, paspoort en kentekencard mee. Vraag exportmelding aan — RDW schrijft de auto uit en geeft witte platen af (geldig ~14 dagen). Regel tijdelijke WA-verzekering (groene kaart).
 
 **Kosten:** RDW ~€40–€100, verzekering varieert.
 
-De platen zijn alleen voor de directe rit naar Spanje. Houd alle exportdocumenten in de auto.
+Alleen voor de directe rit naar Spanje. Exportdocumenten in de auto houden.
 
 ---
 
 ## BPM-teruggaaf
 
-Bij export van een in Nederland geregistreerde auto kun je de resterende (afgeschreven) BPM terugvragen. Alle voorwaarden moeten kloppen:
+Bij export kun je de resterende (afgeschreven) BPM terugvragen. Voorwaarden:
 
 - Kenteken afgegeven **op of na 16 oktober 2006**
 - Geen schadeauto, auto is rijvaardig
@@ -32,9 +32,9 @@ Bij export van een in Nederland geregistreerde auto kun je de resterende (afgesc
 ### Teruggaaf berekenen
 
 1. **Originele BPM opzoeken** — [finnik.nl](https://finnik.nl), voer het kenteken in.
-2. **Rest-BPM berekenen** — [VWE BPM-calculator export](https://www.vwe.nl/autobedrijven/bpm-calculator-export). Gebruikt de officiële forfaitaire afschrijvingstabel van de Belastingdienst.
+2. **Rest-BPM berekenen** — [VWE BPM-calculator export](https://www.vwe.nl/autobedrijven/bpm-calculator-export) (officiële forfaitaire afschrijvingstabel).
 
-Diesel Land Cruisers stoten 250–274 g/km WLTP uit, dus de originele BPM is bij recente modellen vaak €30.000–€50.000+. Zelfs bij oudere exemplaren levert de teruggaaf een serieus bedrag op.
+Diesel Land Cruisers: 250–274 g/km WLTP, originele BPM vaak €30.000–€50.000+. Ook bij oudere exemplaren levert de teruggaaf een flink bedrag op.
 
 ---
 

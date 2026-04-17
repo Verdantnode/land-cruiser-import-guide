@@ -13,11 +13,11 @@
 
 ## CAR-PASS
 
-Wettelijk verplicht bij elke tweedehandsverkoop in België. Bevat de volledige kilometerhistorie. Controleer op [car-pass.be](https://www.car-pass.be) en vergelijk met onderhoudsboekje en keuringsverslagen.
+Verplicht bij elke tweedehandsverkoop in België. Bevat de volledige kilometerhistorie. Controleer op [car-pass.be](https://www.car-pass.be), vergelijk met onderhoudsboekje en keuringsverslagen.
 
 ## Technische keuring (contrôle technique)
 
-Verkoper moet een geldig keuringsattest (groen = goedgekeurd) en een tweedehandsverslag leveren, beide < 2 maanden oud. Bij expliciete exportverkoop kunnen de eisen afwijken — maar eis sowieso een recente keuring voordat je 1.500+ km gaat rijden.
+Verkoper moet een geldig keuringsattest (groen = goedgekeurd) en tweedehandsverslag leveren, beide < 2 maanden oud. Bij exportverkoop kunnen eisen afwijken — eis sowieso een recente keuring voordat je 1.500+ km gaat rijden.
 
 ## Check vóór aankoop
 
@@ -31,7 +31,7 @@ Verkoper moet een geldig keuringsattest (groen = goedgekeurd) en een tweedehands
 
 ## X-plaat (exportplaat)
 
-Je hebt een **X-plaat** nodig — een tijdelijke exportplaat (begint met "X"), 30 dagen geldig, om de auto België uit te rijden.
+**X-plaat** — tijdelijke exportplaat (begint met "X"), 30 dagen geldig, om de auto België uit te rijden.
 
 ### Hoe aanvragen
 
@@ -40,9 +40,9 @@ Je hebt een **X-plaat** nodig — een tijdelijke exportplaat (begint met "X"), 3
 3. **Indienen bij DIV** — Vooruitgangstraat 60, 1210 Brussel, of via een makelaar/agentschap.
 4. **Kosten** — ~€75 (plaat + inschrijving + admin). Spoedprocedure dezelfde dag: +€80, indienen vóór 13:00.
 
-Verzekering en plaat verlopen gelijktijdig. De meeste EU-landen (Frankrijk, Spanje) erkennen de X-plaat. Groene kaart altijd in de auto houden.
+Verzekering en plaat verlopen gelijktijdig. Frankrijk en Spanje erkennen de X-plaat. Groene kaart in de auto houden.
 
-Een makelaar inschakelen is de makkelijkste route — zij regelen DIV-papierwerk en verzekering als pakket.
+Makelaar is de makkelijkste route — regelen DIV-papierwerk en verzekering als pakket.
 
 ---
 
