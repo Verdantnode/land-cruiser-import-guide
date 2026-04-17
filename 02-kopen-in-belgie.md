@@ -41,9 +41,9 @@ Verkoper moet een geldig keuringsattest (groen = goedgekeurd) en tweedehandsvers
 
 **X-plaat** — tijdelijke exportplaat (begint met "X"), 30 dagen geldig, om de auto België uit te rijden.
 
-1. **Verzekering** — tijdelijke WA. Makelaars zoals AVOV Services, KIKITRANS of VDB Transit regelen verzekering + groene kaart, vaak dezelfde dag.
+1. **Verzekering** — tijdelijke WA. Makelaars zoals [AVOV Services](https://avov-services.be), [KIKITRANS](https://kikitrans.be) of [VDB Transit](https://vdbtransit.be) regelen verzekering + groene kaart, vaak dezelfde dag.
 2. **Documenten** — factuur/contract, beide delen inschrijvingsbewijs, geldig keuringsattest (auto > 4 jaar: ≥ 1 maand geldig), paspoort.
-3. **Indienen bij DIV** — Vooruitgangstraat 60, 1210 Brussel, of via een makelaar.
+3. **Indienen bij DIV** — [Vooruitgangstraat 60, 1210 Brussel](https://maps.google.com/?q=Vooruitgangstraat+60,+1210+Brussel), of via een makelaar.
 4. **Kosten** — ~€75 (plaat + inschrijving + admin). Spoed dezelfde dag: +€80, indienen vóór 13:00.
 
 Verzekering en plaat verlopen gelijktijdig. Frankrijk en Spanje erkennen de X-plaat. Groene kaart in de auto houden.
