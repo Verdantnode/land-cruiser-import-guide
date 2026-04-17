@@ -1,56 +1,40 @@
 # Invoer & inschrijving in Spanje
 
-**Maximaal 30 dagen** op buitenlandse platen rijden. Daarna moet de auto ingeschreven zijn. Boetes en inbeslagname zijn reëel.
+**Maximaal 30 dagen** op buitenlandse platen. Daarna moet de auto ingeschreven zijn. Boetes en inbeslagname zijn reëel.
 
----
+## Stappenplan
 
-## Volgorde
-
-| # | Wat | Waar |
-|---|-----|------|
-| 1 | Auto kopen | België (gids 02) of Nederland (gids 01) |
-| 2 | Rijden of transporteren naar Spanje | — |
-| 3 | ITV-keuring | Erkend ITV-station |
-| 4 | Impuesto de Matriculación betalen | Agencia Tributaria (modelo 576) |
-| 5 | IVTM betalen (lokale wegenbelasting) | Je ayuntamiento |
-| 6 | Inschrijven bij DGT | Jefatura Provincial de Tráfico |
-| 7 | Spaanse platen kopen en monteren | Elke platenwinkel |
+| Stap | Actie | Waar |
+|------|-------|------|
+| 1 | ITV-keuring | Erkend ITV-station |
+| 2 | Impuesto de Matriculación betalen | Agencia Tributaria (modelo 576) |
+| 3 | IVTM betalen (lokale wegenbelasting) | Je ayuntamiento |
+| 4 | Inschrijven bij DGT | Jefatura Provincial de Tráfico |
+| 5 | Spaanse platen kopen en monteren | Elke platenwinkel |
 
 **Gestoría** (€200–€500) voor DGT- en belastingpapierwerk scheelt enorm.
 
 ---
 
-## Documenten
+## Documenten (verzamelen vóór je begint)
 
 - Koopcontract (particulier) of factuur (dealer)
 - Spaanse vertaling van het contract als het in NL/FR is (traducción jurada)
 - Origineel buitenlands kentekenbewijs
-- EU-certificaat van overeenstemming (CoC) — haal dit bij de verkoper vóór vertrek
+- CoC (certificaat van overeenstemming) — ophalen bij verkoper vóór vertrek
 - NIE/TIE + empadronamiento
 - Spaanse autoverzekering
 - Exportcertificaat uit land van aankoop
-- Bewijzen van belastingbetaling
 
 ---
 
-## In detail
-
-### 1. Eigendomsbewijs
-
-| Bron | Vereist |
-|---|---|
-| Particuliere verkoper in EU | Koopcontract + Spaanse vertaling + ITP (betaald aan comunidad autónoma) |
-| EU-dealer | Factuur met btw-nummer dealer |
-
-### 2. ITV
+## 1. ITV-keuring
 
 Meenemen: buitenlands kentekenbewijs, CoC, contract/factuur, legitimatie. Met geldig CoC en zonder modificaties komt de Land Cruiser zonder homologatieprobleem door de keuring — standaard EU-voertuig. Geen CoC van verkoper? Elke Toyota-dealer kan er een uitschrijven.
 
 Het ITV-station geeft een **ficha técnica española** af.
 
-### 3. Belastingen
-
-#### Impuesto de Matriculación (modelo 576)
+## 2. Impuesto de Matriculación (modelo 576)
 
 Op basis van CO₂ (WLTP) en afgeschreven fiscale waarde. Diesel Land Cruiser: 250–274 g/km → **14,75%** (hoogste schijf).
 
@@ -62,28 +46,26 @@ Op basis van CO₂ (WLTP) en afgeschreven fiscale waarde. Diesel Land Cruiser: 2
 | ≥ 200 g/km | **14,75%** |
 
 **Berekenen:**
-1. **BOE-waarde opzoeken** — [importespana.com/valoracion-boe](https://importespana.com/valoracion-boe) (2026 BOE-database, zoek op merk/model/motor)
-2. **Bedrag berekenen** — [dieselogasolina.com calculator](https://www.dieselogasolina.com/calcular-impuesto-matriculacion-coche-moto-hacienda.html) (kies "Importado", vul CO₂ en leeftijd in)
+1. BOE-waarde opzoeken — [importespana.com/valoracion-boe](https://importespana.com/valoracion-boe) (2026 BOE-database, zoek op merk/model/motor)
+2. Bedrag berekenen — [dieselogasolina.com calculator](https://www.dieselogasolina.com/calcular-impuesto-matriculacion-coche-moto-hacienda.html) (kies "Importado", vul CO₂ en leeftijd in)
 
-#### IVTM
+## 3. IVTM
 
 Jaarlijkse lokale wegenbelasting aan je ayuntamiento. Op basis van fiscale pk. ~€100–€250/jaar voor een Land Cruiser.
 
-#### Btw (IVA)
+### Overige belastingen
 
-Niet verschuldigd als er al btw is betaald bij eerste EU-verkoop. Alleen bij "nieuwe" auto (< 6 maanden / < 6.000 km) of aankoop bij dealer die btw factureert.
+**Btw (IVA)** — niet verschuldigd als er al btw is betaald bij eerste EU-verkoop. Alleen bij "nieuwe" auto (< 6 maanden / < 6.000 km) of aankoop bij dealer die btw factureert.
 
-#### ITP (Impuesto de Transmisiones Patrimoniales)
+**ITP** — alleen bij aankoop van een particulier. Betaald aan comunidad autónoma, doorgaans 4–8% van fiscale waarde.
 
-Alleen bij aankoop van een particulier. Betaald aan comunidad autónoma, doorgaans 4–8% van fiscale waarde.
-
-### 4. Inschrijving bij DGT
+## 4. Inschrijving bij DGT
 
 Indienen bij Jefatura Provincial de Tráfico: alle documenten, modelo 576-bewijs, IVTM-bewijs, ficha técnica, NIE/TIE + empadronamiento. ~€100. Je ontvangt het **Permiso de Circulación** en kentekenplaatnummer.
 
-### 5. Tijdelijke groene platen
+## 5. Platen
 
-Bij vertraging (komt vaak voor): vraag **matrículas temporales** (groene platen) aan — 2 maanden geldig, verlengbaar. Verzekering vereist. Beter dan op verlopen exportplaten rondrijden.
+Bij vertraging (komt vaak voor): vraag **matrículas temporales** (groene platen) aan — 2 maanden geldig, verlengbaar. Verzekering vereist.
 
 ---
 
@@ -119,4 +101,3 @@ Bij vertraging (komt vaak voor): vraag **matrículas temporales** (groene platen
 - [DGT — voertuig uit EU inschrijven](https://www.dgt.es/nuestros-servicios/tu-vehiculo/quieres-traer-o-llevarte-un-vehiculo-del-extranjero/matricular-un-vehiculo-proveniente-de-la-ue/)
 - Agencia Tributaria — modelo 576
 - [ITV-stations — serviciositv.es](https://www.serviciositv.es/)
-
