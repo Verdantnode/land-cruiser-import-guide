@@ -42,7 +42,7 @@ Diesel Land Cruisers: 250–274 g/km WLTP, originele BPM vaak €30.000–€50.
 
 | Stap | Actie |
 |------|-------|
-| 1 | Koop — kentekencard, contract/factuur, CoC als beschikbaar |
+| 1 | Koop — kentekencard, contract/factuur, CoC |
 | 2 | Check BPM op Finnik |
 | 3 | RDW — exportmelding + witte platen + verzekering |
 | 4 | Rij naar Spanje (platen geldig ~14 dagen) |
