@@ -6,9 +6,9 @@ Gids voor het kopen van een Toyota Land Cruiser in Nederland of België en impor
 
 | # | Onderwerp | Link |
 |---|-----------|------|
-| 1 | Kopen in Nederland | [01-netherlands-buying-guide.md](01-netherlands-buying-guide.md) |
-| 2 | Kopen in België | [02-belgium-buying-guide.md](02-belgium-buying-guide.md) |
-| 3 | Invoer & inschrijving in Spanje | [03-spain-import-guide.md](03-spain-import-guide.md) |
+| 1 | Kopen in Nederland | [01-kopen-in-nederland.md](01-kopen-in-nederland.md) |
+| 2 | Kopen in België | [02-kopen-in-belgie.md](02-kopen-in-belgie.md) |
+| 3 | Invoer & inschrijving in Spanje | [03-invoer-in-spanje.md](03-invoer-in-spanje.md) |
 
 ## Tools
 
