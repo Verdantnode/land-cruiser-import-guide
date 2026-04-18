@@ -25,7 +25,7 @@
 
 - Kentekencard (pasje)
 - Koopcontract of factuur
-- CoC (certificaat van overeenstemming) — nodig voor Spanje
+- CoC (certificaat van overeenstemming) — vraag op als de verkoper het heeft, maakt ITV in Spanje makkelijker
 
 ## 3. BPM checken
 

@@ -33,7 +33,7 @@ Verkoper moet een geldig keuringsattest (groen = goedgekeurd) en tweedehandsvers
 - Factuur (dealer) of ondertekend koopcontract (particulier)
 - Beide delen van het inschrijvingsbewijs (certificat d'immatriculation)
 - CAR-PASS
-- CoC (certificaat van overeenstemming) — expliciet vragen, nodig in Spanje
+- CoC (certificaat van overeenstemming) — vraag op als de verkoper het heeft, maakt ITV in Spanje makkelijker
 - Keuringsattest + tweedehandsverslag (rapport d'occasion)
 - Onderhoudshistorie, sleutels, handleidingen
 

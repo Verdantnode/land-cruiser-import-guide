@@ -21,7 +21,7 @@
 - Koopcontract (particulier) of factuur (dealer)
 - Spaanse vertaling van het contract als het in NL/FR is (traducción jurada)
 - Origineel buitenlands kentekenbewijs
-- CoC (certificaat van overeenstemming) — ophalen bij verkoper vóór vertrek
+- CoC (certificaat van overeenstemming) — vraag op bij de verkoper als die het heeft
 - NIE/TIE + empadronamiento
 - Spaanse autoverzekering
 - Exportcertificaat uit land van aankoop
@@ -30,7 +30,15 @@
 
 ## 1. ITV-keuring
 
-Meenemen: buitenlands kentekenbewijs, CoC, contract/factuur, legitimatie. Met geldig CoC en zonder modificaties komt de Land Cruiser zonder homologatieprobleem door de keuring — standaard EU-voertuig. Geen CoC van verkoper? Elke Toyota-dealer kan er een uitschrijven.
+Meenemen: buitenlands kentekenbewijs, contract/factuur, legitimatie, en één van onderstaande:
+
+**Optie A — CoC (certificaat van overeenstemming)**
+Als de verkoper het heeft, neem het mee. Met geldig CoC en zonder modificaties komt de Land Cruiser zonder problemen door de keuring.
+
+**Optie B — Ficha técnica reducida (geen CoC)**
+Een Spaanse *ingeniero colegiado* stelt een vereenvoudigd technisch rapport op. Voorwaarde: het voertuig heeft een Europese typegoedkeuring (staat op het buitenlandse kentekenbewijs). Elke auto uit NL/BE heeft dit. Kosten: €45–€120, klaar in 2–48 uur, vaak online te regelen. Diensten: [fichareducida.com](https://www.fichareducida.com), [fichareducidaexpress.com](https://www.fichareducidaexpress.com), [carology.es](https://carology.es).
+
+> CoC-duplicaat opvragen bij Toyota kost €100–€500 en duurt weken. Een ficha reducida is sneller en goedkoper.
 
 Het ITV-station geeft een **ficha técnica española** af.
 
@@ -72,7 +80,6 @@ Bij vertraging (komt vaak voor): vraag **matrículas temporales** (groene platen
 ## Let op
 
 - Inschrijving starten **binnen 30 dagen** na aankomst auto in Spanje.
-- **CoC ophalen vóór vertrek** uit land van aankoop.
 - **Spaanse verzekering** regelen vóór inschrijving — veel verzekeraars dekken tijdelijk op buitenlands kenteken.
 - Gestoría kent de lokale DGT-eigenaardigheden en regelt de wachtrijen.
 
@@ -85,6 +92,7 @@ Bij vertraging (komt vaak voor): vraag **matrículas temporales** (groene platen
 | kentekenbewijs | permiso de circulación |
 | koopovereenkomst | contrato de compraventa |
 | gelijkvormigheidsattest / COC | certificado de conformidad |
+| vereenvoudigd technisch rapport | ficha técnica reducida |
 | wegenbelasting | IVTM |
 | technische keuring | ITV |
 | inschrijvingsbelasting | impuesto de matriculación |
